@@ -466,6 +466,7 @@ h1 {
 .tools-section {
   margin-top: 18px;
   padding-top: 16px;
+   
   border-top: 1px solid #D9CDAF;
 }
 
@@ -654,8 +655,6 @@ a:hover {
 }
 
 
-/* ---------- OPTIONAL: DARK GREEN "INSTITUTIONAL" HEADER ----------
-   Uncomment this block if you want a stronger, more club-like top section.
 
 header {
   max-width: none;
@@ -677,4 +676,3 @@ header::before {
   color: #C8A85C;
   border-color: #C8A85C;
 }
-*/
